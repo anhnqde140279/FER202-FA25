@@ -5,7 +5,7 @@ export function Exercise1() {
   return (
     <div className="Exercise1">
       <p>Hello <strong>Exercise 1</strong></p>
-      <h2>Chi tiết bào tập 1</h2>
+      <h2>Chi tiết bài tập 1</h2>
     </div>
   );
 }
